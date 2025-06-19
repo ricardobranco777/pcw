@@ -20,5 +20,5 @@ protobuf==5.29.3
 python-dateutil==2.9.0.post0
 requests==2.32.3
 texttable==1.7.0
-urllib3==2.3.0
+urllib3==2.5.0
 uwsgi==2.0.28
